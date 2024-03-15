@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DuHansen/ReactWeb.git/static/css/main.ff02f4b5.css",
+    "main.js": "/DuHansen/ReactWeb.git/static/js/main.d9a6f283.js",
+    "static/js/453.dbae2a87.chunk.js": "/DuHansen/ReactWeb.git/static/js/453.dbae2a87.chunk.js",
+    "index.html": "/DuHansen/ReactWeb.git/index.html",
+    "main.ff02f4b5.css.map": "/DuHansen/ReactWeb.git/static/css/main.ff02f4b5.css.map",
+    "main.d9a6f283.js.map": "/DuHansen/ReactWeb.git/static/js/main.d9a6f283.js.map",
+    "453.dbae2a87.chunk.js.map": "/DuHansen/ReactWeb.git/static/js/453.dbae2a87.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ff02f4b5.css",
+    "static/js/main.d9a6f283.js"
+  ]
+}
